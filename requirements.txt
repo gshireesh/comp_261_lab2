@@ -1,0 +1,10 @@
+certifi==2022.12.7
+charset-normalizer==3.1.0
+click @ file:///Users/ec2-user/ci_py311/click_1678318124837/work
+idna==3.4
+oauthlib==3.2.2
+python-dotenv @ file:///Users/ec2-user/ci_py311/python-dotenv_1678319919985/work
+requests==2.28.2
+requests-oauthlib==1.3.1
+tweepy==4.13.0
+urllib3==1.26.15
